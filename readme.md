@@ -6,7 +6,8 @@ A simple application that calculates the factorial of a positive integer, built 
 
 ## 🚀 Demo
 
-The project allows the user to input a number and returns its factorial.
+🌐 Live Demo:
+https://seu-app.onrender.com
 
 **Example:**
 
